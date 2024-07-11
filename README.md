@@ -1,1 +1,1 @@
-# Delineate-failure-kinematics
+# Delineating failure kinematics
